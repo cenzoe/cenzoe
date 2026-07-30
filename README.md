@@ -17,9 +17,9 @@ Building modern web experiences, AI-powered websites, and automation tools.
 <img src="https://komarev.com/ghpvc/?username=ahrorbeekw&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 </a>
 
-<img src="https://img.shields.io/github/followers/ahrorbeekw?logo=github&style=for-the-badge">
+<img src="https://img.shields.io/github/followers/cenzoe?logo=github&style=for-the-badge">
 
-<img src="https://img.shields.io/github/stars/ahrorbeekw?affiliations=OWNER&style=for-the-badge">
+<img src="https://img.shields.io/github/stars/cenzoe?affiliations=OWNER&style=for-the-badge">
 </p>
 
 ---
