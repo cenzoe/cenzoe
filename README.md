@@ -123,15 +123,15 @@ Technology-focused projects that combine software engineering, education, and in
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ahrorbeekw&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=cenzoe&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ahrorbeekw&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=cenzoe&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahrorbeekw&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cenzoe&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -141,7 +141,7 @@ Technology-focused projects that combine software engineering, education, and in
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ahrorbeekw&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=cenzoe&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </p>
 
