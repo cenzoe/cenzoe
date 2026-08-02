@@ -73,11 +73,6 @@ goal:
 <img src="https://skillicons.dev/icons?i=django,fastapi"/>
 </p>
 
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=,mysql,sqlite"/>
-</p>
 
 ### Tools
 
@@ -87,47 +82,7 @@ goal:
 
 ---
 
-# 🌟 Featured Projects
 
-### 🤖 AI-Based Websites
-
-Developing intelligent web applications powered by AI to improve productivity and solve real-world problems.
-
-### 🌐 Full-Stack Web Applications
-
-Modern, scalable, responsive websites built with clean architecture and best development practices.
-
-### 🤖 Telegram Bots
-
-Automation bots for businesses, communities, education, and productivity.
-
-### 🔬 Research & Educational Projects
-
-Technology-focused projects that combine software engineering, education, and innovation.
-
----
-
-# 🎯 Current Focus
-
-* 🤖 AI-Based Web Development
-* 🌐 Full-Stack Development
-* 💬 Telegram Bot Development
-* 🐧 Linux & Open Source
-* ⚡ Vibe Coding
-* 📚 Algorithms & Data Structures
-* 🚀 Building Useful Real-World Projects
-
-
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cenzoe&theme=tokyo-night"/>
-
-</p>
-
----
 
 # 🌐 Connect With Me
 
