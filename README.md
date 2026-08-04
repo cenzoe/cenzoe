@@ -5,7 +5,7 @@ Backend Developer • Frontend Developer • High school student
 </h3>
 
 <p align="center">
-Building modern web experiences, AI-powered websites, and automation tools.
+Building modern web experiences. AI-powered websites, and automation tools.
 </p>
 
 <p align="center">
