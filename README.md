@@ -31,8 +31,8 @@ name: Ahrorbek Orziqulov
 location: Navoi, Uzbekistan 🇺🇿
 
 role:
-  - Backend Developer
-  - Frontend Developer
+  - Backend/Frontend Developer
+  - IT manager
   - AI-Based Web Developer
 
 organization:
